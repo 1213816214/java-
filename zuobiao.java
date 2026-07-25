@@ -1,6 +1,7 @@
 package com.lianxi;
 import java.util.Scanner;
 public class zuobiao {
+    // 根据输入的x和y的值，判断点在哪个象限
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入x轴：");
