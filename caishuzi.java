@@ -1,8 +1,8 @@
 package com.lianxi;
 import java.util.Scanner;
 import java.util.Random;
-
 public class caishuzi {
+    // 猜数字游戏
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random r = new Random();
