@@ -3,8 +3,7 @@ package com.lianxi;
 import java.util.Scanner;
 
 public class kalazihanshu {
-
-    //打印
+    //判断奇偶数
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个正整数：");
