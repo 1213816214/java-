@@ -1,7 +1,5 @@
 package com.lianxi;
-
 import java.util.Scanner;
-
 public class kalazihanshu {
     //判断奇偶数
     public static void main(String[] args) {
