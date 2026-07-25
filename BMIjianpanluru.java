@@ -1,6 +1,7 @@
 package com.lianxi;
 import java.util.Scanner;
 public class BMIjianpanluru {
+    // 计算BMI值
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入体重(单位千克):");
